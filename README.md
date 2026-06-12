@@ -1,7 +1,7 @@
 # VirtualRoom Planner
 
 This VirtualRoom Planner is a user-friendly web-based application that allows users to design their room layout in both 2D and 3D environments with Virtual Reality (VR) support.
-### Note: If you would like the source code, please feel free to contact me via telegram (@FumoDev)
+### Note: If you would like the source code, please feel free to contact me via telegram (@nashz_my)
 
 ## Website
 
